@@ -1,0 +1,14 @@
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\ApplicationIcon.png
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\Background.png
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\PopUpDemo.dll
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\PopUpDemo.pdb
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\AppManifest.xaml
+D:\Windows Phone Projects\PopUpDemo\Bin\Debug\PopUpDemo.xap
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\App.g.i.cs
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\FullNameScreen.g.i.cs
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\MainPage.g.i.cs
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\Page1.g.i.cs
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\PopUpDemo.g.resources
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\PopUpDemo.dll
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\PopUpDemo.pdb
+D:\Windows Phone Projects\PopUpDemo\obj\Debug\XapCacheFile.xml
